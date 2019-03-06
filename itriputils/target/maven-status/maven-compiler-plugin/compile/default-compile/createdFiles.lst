@@ -1,0 +1,5 @@
+cn\itrip\common\RedisAPI.class
+cn\itrip\common\RedisPool.class
+cn\itrip\common\Page.class
+cn\itrip\common\MD5.class
+cn\itrip\common\UserAgentUtil.class

@@ -1,0 +1,18 @@
+-----------这是模板中的数据
+
+<#list l as Animal>
+
+    <#if Animal.name=='小狗'>
+         是狗么? ${Animal.name}
+
+    <#else>
+       不是狗的ji价格 ${Animal.price}
+
+    </#if>
+
+</#list>
+
+
+-----------这是模板中的数据
+
+

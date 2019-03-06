@@ -1,0 +1,10 @@
+com\bdqn\controller\UserController.class
+com\bdqn\biz\TokenServiceImpl.class
+com\bdqn\biz\UserBiz.class
+com\bdqn\controller\UserRegiter.class
+com\bdqn\biz\UserRegiterBiz.class
+com\bdqn\biz\TokenService.class
+com\bdqn\text\TextDemo1.class
+com\bdqn\controller\SwaggerConfig.class
+com\bdqn\controller\TextRedis.class
+com\bdqn\text\Animal.class

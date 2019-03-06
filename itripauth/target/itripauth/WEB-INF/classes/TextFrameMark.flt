@@ -1,0 +1,13 @@
+<html xmlns="jar://D:/JavaTool/IntelliJ IDEA 2018.1/lib/platform-impl.jar!/standardSchemas/html5/xhtml5.xsd">
+
+    <head></head>
+    <body>
+
+        这是一个framemark的模板
+        <br></br>
+        要替换的值${v1}
+
+    </body>
+
+
+</html>
